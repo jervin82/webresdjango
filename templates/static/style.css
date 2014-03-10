@@ -1,0 +1,11 @@
+body {background-color: #FFFFFF; background-image: url('https://www.dropbox.com/s/1vcdhnsgrvelclr/BigDStar.jpg?dl=1'); background-size: 1600px 800px; background-repeat:no-repeat; background-position: center top;}
+h1 {color:#FFFFFF; text-shadow: black 0.1em 0.1em 0.2em; text-align: left; font-family:"arial";}
+p {color:#000000; text-align: left; text-indent: 50px; font-family:"arial";}
+a:link {color:#FFFFFF; opacity: .4}      /* unvisited link */
+a:visited {color:#FFFFFF;}  /* visited link */
+a:hover {color:#FFFFFF; opacity: 10}  /* mouse over link */
+a:active {color:#FFFFFF;} 
+#content2 {background-color:#FFFFFF; color:#000000; position:fixed; left:345px; top:100px;}
+#nav {position:absolute;left:950px; top:650px; font-size:50px; font-family:'garamond';}
+#boutme,#projects {color:#FFFFFF; background-color: #000000; opacity: .7; left:200px; top:170px; font-family: 'arial'; font-size:30px;}
+#setup {color:#FFFFFF; background-color: #000000; opacity: .7; width:250px; font-family: 'arial'; font-size:30px;}
